@@ -27,7 +27,7 @@ jinja2==2.11.2
 jmespath==0.10.0
 jsonschema==3.2.0
 markupsafe==1.1.1
-paramiko==2.7.1
+paramiko==2.10.1
 pathspec==0.5.9
 pg8000==1.15.2
 pycparser==2.20
